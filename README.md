@@ -1,7 +1,7 @@
-👋 Greetings, I go by the handle @anees.
-👀 I proudly wear the title of a programmer, a world where innovation and logic intertwine.
-🌱 My current journey is paved with the foundations of Java, a language I am diligently mastering to expand my programming prowess.
-💞️ My eyes are set on the horizon of collaboration, eager to immerse myself in the depths of intricate projects that challenge my skills and expand my horizons.
+- 👋 Greetings, I go by the handle @anees.
+- 👀 I wear the title of a programmer, a world where innovation and logic intertwine.
+- 🌱 My current journey is paved with the foundations of Java, a language I am diligently mastering to expand my programming prowess.
+- 💞️ My eyes are set on the horizon of collaboration, eager to immerse myself in the depths of intricate projects that challenge my skills and expand my horizons.
 
 <!---
 anees1203/anees1203: A 🌟 repository that mirrors my journey as a programmer, offering a glimpse into my growth and passion. Explore my evolution!
