@@ -1,11 +1,10 @@
 ## Hey, I'm Anees 👋 
-I'm a 25-year-old developer, and I'm passionate about problem-solving and design.
+I'm a 24-year-old developer, and I'm passionate about problem-solving and design.
 - Check out [my website](www.aneesshaik.com) to learn more about me.
 - Check my [Blog]() where I share insights and learnings.
 
-## 🧰 ToolBox
+## ⚙️ Toolbox
 
-### Frondend Development:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
